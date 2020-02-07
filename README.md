@@ -1,0 +1,2 @@
+# rcbsd
+BSD config files
